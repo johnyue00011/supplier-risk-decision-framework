@@ -11,21 +11,21 @@ The focus is on interpretable, exposure-aware signals and tiered decision logic,
 
 What decision this system supports
 
-This system supports cross-functional supplier risk prioritization decisions in a manufacturing nonconformance context.
-	•	Decision owners:
-    Supplier risk prioritization is a joint decision process involving Quality Engineering, MRB, Procurement, and supplier representatives.
-	•	Quality Engineering and MRB lead risk assessment and technical disposition
-	•	Procurement evaluates supplier impact and corrective action feasibility
-	•	Final prioritization is aligned through cross-functional review rather than a single owner
-	•	Decision frequency: Monthly, with rolling reassessment as new NCRs occur
-	•	Decisions and actions enabled by the risk score:
-	1.	Prioritize suppliers for audit and corrective action reviews
-	2.	Expedite MRB review for suppliers flagged as high risk
-	3.	Apply temporary release holds or tightened incoming inspection policies
-	4.	Allocate limited quality, inspection, and remediation resources under capacity constraints
-	•	Cost of being wrong:
-	•	False negatives (underestimating risk): Production delays, line downtime, scrap, rework, and downstream customer impact
-	•	False positives (overestimating risk): Excessive inspections, slower material flow, increased operational cost, and inefficient resource allocation
+    This system supports cross-functional supplier risk prioritization decisions in a manufacturing nonconformance context.
+	    •	Decision owners:
+            Supplier risk prioritization is a joint decision process involving Quality Engineering, MRB, Procurement, and supplier representatives.
+	    •	Quality Engineering and MRB lead risk assessment and technical disposition
+	    •	Procurement evaluates supplier impact and corrective action feasibility
+	    •	Final prioritization is aligned through cross-functional review rather than a single owner
+	    •	Decision frequency: Monthly, with rolling reassessment as new NCRs occur
+	    •	Decisions and actions enabled by the risk score:
+	        1.	Prioritize suppliers for audit and corrective action reviews
+	        2.	Expedite MRB review for suppliers flagged as high risk
+	        3.	Apply temporary release holds or tightened incoming inspection policies
+	        4.	Allocate limited quality, inspection, and remediation resources under capacity constraints
+	    •	Cost of being wrong:
+	    •	False negatives (underestimating risk): Production delays, line downtime, scrap, rework, and downstream customer impact
+	    •	False positives (overestimating risk): Excessive inspections, slower material flow, increased operational cost, and inefficient resource allocation
 
 
 2.
